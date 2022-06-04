@@ -1,0 +1,4 @@
+the automatic post - editing ( ape ) task is to automatically correct errors in machine translation outputs .
+in our submission , we :
+utilize and adapt an nmt architecture originally developed for exploiting context information to ape .
+explore joint training of the ape task with a de - noising encoder .
